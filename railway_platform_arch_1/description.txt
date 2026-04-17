@@ -1,0 +1,7 @@
+The back of the arch is vertical.
+The side supports lean back at about 10 degrees.
+The arch is inset back from the pillar by about 10cm.
+The base of the pillar is wider than the main body.
+Where it joins there is an angled surface.
+Model the pillar as three blocks: base, then a trapezoidal prism, then another block.
+The prism is about 10cm high.
